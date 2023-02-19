@@ -1,3 +1,8 @@
+## Task 2
+
+- CloudFront URL - https://d3flgpplmao0e1.cloudfront.net
+- S3-website - https://reactreduxappaws.s3.eu-west-1.amazonaws.com/index.html
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
